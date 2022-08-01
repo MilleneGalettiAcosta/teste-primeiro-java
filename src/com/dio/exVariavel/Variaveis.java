@@ -8,7 +8,7 @@ public class Variaveis {
 //        int 1a; { não é permitido iniciar com numeral }
 //        int _1a; {  não é uma boa prática }
 //        int $aq; { não é uma boa prática }
-        //        int espaco nao; { não pode ter espaços na variáveis}
+//        int espaco nao; { não pode ter espaços na variáveis}
 
 
         i = 30;
